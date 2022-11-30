@@ -14,11 +14,6 @@ Original file is located at
 import pandas as pd
 from tabulate import tabulate
 
-"""# $\text{Case: Dictionary Implementation}$
-
-## $\text{Buat Class beserta Methods}$
-"""
-
 class Library:
     def __init__(self):
         """
