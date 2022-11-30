@@ -14,19 +14,6 @@ Original file is located at
 import pandas as pd
 from tabulate import tabulate
 
-dictionary = {1:[20, 3],
-              2:[30, 2],
-              3:[10, 1]}
-
-for i in :
-    print(i)
-
-for i in dictionary.keys():
-    val = dictionary[i][0]*dictionary[i][1]
-    dictionary[i].append(val)
-
-dictionary
-
 """# $\text{Case: Dictionary Implementation}$
 
 ## $\text{Buat Class beserta Methods}$
